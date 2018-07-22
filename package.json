@@ -33,6 +33,6 @@
   "dependencies": {
     "@kites/api": "^0.2.2",
     "@kites/engine": "^0.1.4",
-    "@kites/express": "^0.1.7"
+    "@kites/express": "^0.1.8"
   }
 }
