@@ -13,7 +13,7 @@ class User {
     }
 
     /**
-     * Get user model schema
+     * User schema definition
      */
     get schema() {
         return {
