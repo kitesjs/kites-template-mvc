@@ -30,7 +30,9 @@
         "httpPort": 3000,
         "poweredBy": "ERMJSC",
         "views": {
+            "ext": "ejs",
             "engine": "ejs",
+            "renderer": "renderFile",
             "path": "content/views"
         }
     }
