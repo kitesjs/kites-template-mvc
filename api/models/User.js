@@ -8,7 +8,7 @@ class User {
     /**
      * Table or collection name
      */
-    get name() {
+    get collection() {
         return 'User';
     }
 
