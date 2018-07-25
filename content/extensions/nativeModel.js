@@ -1,5 +1,10 @@
 /**
- * Accessing native model
+ * Accessing native model from controllers, services
+ * To perform advanced queries
+ * 
+ * eg:         
+ *      var userModel = this.kites.native.user.adapter;
+ * 
  * @param {kites} kites 
  */
 module.exports = function (kites) {
