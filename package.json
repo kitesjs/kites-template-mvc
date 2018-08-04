@@ -31,8 +31,8 @@
     "tape": "^4.6.3"
   },
   "dependencies": {
-    "@kites/api": "^0.2.4",
-    "@kites/engine": "^0.1.4",
+    "@kites/api": "^0.2.9",
+    "@kites/engine": "^0.1.5",
     "@kites/express": "^0.1.10"
   }
 }
