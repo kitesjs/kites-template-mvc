@@ -3,7 +3,7 @@
     "logger": {
         "console": {
             "transport": "console",
-            "level": "info"
+            "level": "debug"
         }
     },
     "extensions": null,

@@ -4,6 +4,8 @@ Kites Template MVC
 Kites MVC - Assembling all into a complete ship.
 
 [![Join the chat at https://gitter.im/nodevn/kites](https://badges.gitter.im/nodevn/kites.svg)](https://gitter.im/nodevn/kites)
+[![Git tag](https://img.shields.io/github/tag/vunb/kites-template-mvc.svg)](https://github.com/vunb/kites-template-mvc)
+[![Travis](https://travis-ci.org/vunb/kites-template-mvc.svg?branch=stable)](https://travis-ci.org/vunb/kites-template-mvc)
 
 Installation
 ============

@@ -6,7 +6,13 @@ class UserService {
 
     constructor(kites, options) {
         kites.logger.info(`hello (${this.name}): `, options);
-        this.UserModel = kites.db.User;
+        /**
+         * Wait for other kites service ready
+         */
+        this.kites.ready(() => {
+            this.UserModel = kites.db.User;
+            this.InitDbService = kites.sv.initDb;
+        })
     }
 
     /**
